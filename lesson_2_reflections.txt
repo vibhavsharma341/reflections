@@ -1,3 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 	git version control can be applied to that file
+	
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	acts as an intermediate directory for git to operate on
+	
+
